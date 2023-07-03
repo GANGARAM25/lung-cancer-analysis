@@ -1,7 +1,7 @@
 # lung-cancer-analysis
 Unsupervised Learning and supervised Learning on dataset of lung cancer analysis
 
-# Question 1: Unsupervised Learning
+**Question 1: Unsupervised Learning**
 1) Apply PCA (select number of components by preserving 95% of total variance). (in-built
 function allowed for PCA).
 2) Plot the graph for PCA.
@@ -10,7 +10,7 @@ to 8. Plot the graph of K vs normalised mutual information (NMI). Report the val
 which the NMI is maximum. (in-built function not allowed for K-Means).
 4) Prepare a report including all your results
 
-# Supervised Learning (70)
+**Supervised Learning**
 1) Normalise the data using Standard Scalar Normalisation. Randomly divide the Dataset into
 80% for training and 20% for testing. Encode categorical variables using appropriate
 encoding method (in-built function not allowed for normalization, sampling and
